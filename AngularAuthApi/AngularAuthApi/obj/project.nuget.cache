@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "suQxhMN9w3n4jBGJZZHz2LiVRpfN/8nyHOqXCLF0KeWvUefmPltClKeWFimAL6tk2lVF+gRk4yzL0D20pzWc6w==",
+  "dgSpecHash": "5zKa1Cs4OlElP1SBy9NccsWmkem8Rzd4EllJ0rVQyKyn0fplaN3VtQarG+sXZ27XFegSht8ANMMqEhO0v3zDsw==",
   "success": true,
-  "projectFilePath": "F:\\Web\\BackEnd\\AngularAuthApi\\AngularAuthApi\\AngularAuthApi.csproj",
+  "projectFilePath": "F:\\Web\\BackEnd\\Net6Auth\\AngularAuthApi\\AngularAuthApi\\AngularAuthApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ApoRaviz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ApoRaviz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
